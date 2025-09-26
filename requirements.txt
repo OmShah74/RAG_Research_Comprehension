@@ -1,0 +1,17 @@
+arxiv
+transformers
+pytorch
+torchvision
+torchtext
+tqdm
+pymupdf
+sentence-transformers
+faiss-cpu
+evaluate
+datasets
+bitsandbytes
+peft
+trl
+einops
+langchain
+langchain-community
